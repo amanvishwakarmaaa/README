@@ -27,7 +27,7 @@
 ---
 
 ## 🔥 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?amanvishwakarmaaa=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanvishwakarmaaa&show_icons=true&theme=tokyonight)
 
 ---
 
